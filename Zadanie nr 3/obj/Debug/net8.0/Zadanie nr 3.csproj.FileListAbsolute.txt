@@ -1,0 +1,14 @@
+C:\Users\Bartosh\source\repos\PROGRAMOWANIE OBIEKTOWE\Zadanie nr 3\obj\Debug\net8.0\Zadanie nr 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartosh\source\repos\PROGRAMOWANIE OBIEKTOWE\Zadanie nr 3\obj\Debug\net8.0\Zadanie nr 3.AssemblyInfoInputs.cache
+C:\Users\Bartosh\source\repos\PROGRAMOWANIE OBIEKTOWE\Zadanie nr 3\obj\Debug\net8.0\Zadanie nr 3.AssemblyInfo.cs
+C:\Users\Bartosh\source\repos\PROGRAMOWANIE OBIEKTOWE\Zadanie nr 3\obj\Debug\net8.0\Zadanie nr 3.csproj.CoreCompileInputs.cache
+C:\Users\Bartosh\source\repos\PROGRAMOWANIE OBIEKTOWE\Zadanie nr 3\bin\Debug\net8.0\Zadanie nr 3.exe
+C:\Users\Bartosh\source\repos\PROGRAMOWANIE OBIEKTOWE\Zadanie nr 3\bin\Debug\net8.0\Zadanie nr 3.deps.json
+C:\Users\Bartosh\source\repos\PROGRAMOWANIE OBIEKTOWE\Zadanie nr 3\bin\Debug\net8.0\Zadanie nr 3.runtimeconfig.json
+C:\Users\Bartosh\source\repos\PROGRAMOWANIE OBIEKTOWE\Zadanie nr 3\bin\Debug\net8.0\Zadanie nr 3.dll
+C:\Users\Bartosh\source\repos\PROGRAMOWANIE OBIEKTOWE\Zadanie nr 3\bin\Debug\net8.0\Zadanie nr 3.pdb
+C:\Users\Bartosh\source\repos\PROGRAMOWANIE OBIEKTOWE\Zadanie nr 3\obj\Debug\net8.0\Zadanie nr 3.dll
+C:\Users\Bartosh\source\repos\PROGRAMOWANIE OBIEKTOWE\Zadanie nr 3\obj\Debug\net8.0\refint\Zadanie nr 3.dll
+C:\Users\Bartosh\source\repos\PROGRAMOWANIE OBIEKTOWE\Zadanie nr 3\obj\Debug\net8.0\Zadanie nr 3.pdb
+C:\Users\Bartosh\source\repos\PROGRAMOWANIE OBIEKTOWE\Zadanie nr 3\obj\Debug\net8.0\Zadanie nr 3.genruntimeconfig.cache
+C:\Users\Bartosh\source\repos\PROGRAMOWANIE OBIEKTOWE\Zadanie nr 3\obj\Debug\net8.0\ref\Zadanie nr 3.dll
